@@ -14,7 +14,7 @@ Use NetOffice to extend and automate Microsoft Office applications: Excel, Word,
 
 :rotating_light: **Notice**: Use official packages with [__NetOfficeFw.*__ prefix](https://www.nuget.org/packages?q=NetOfficeFw). Using old 1.7.4 packages? [Learn how to migrate.](https://netoffice.io/migrate-notice/)
 
-## Features
+## Featuresa
 
 * Microsoft Office integration without version limitations
 * All features of the Microsoft Office versions 2000, 2002, 2003, 2007, 2010, 2013 and 2016 are included
